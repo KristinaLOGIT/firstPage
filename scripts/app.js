@@ -5,5 +5,5 @@ const myImage = document.querySelector("img");
 
 myButton.addEventListener("click",()=> {
 console.log("click");
-myImage.src="images/pic5.jpeg";
+myImage.src="images/pilt5.jpeg";
 });
